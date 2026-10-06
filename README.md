@@ -4,7 +4,7 @@ An NLP and Machine Learning project for analyzing sentiment in political and soc
 
 ## 🚀 Open in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YugangGaurav/Political_Sentiment_Analysis/blob/main/Political_Sentiment_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DBoGUyWz66xulFN3RpXkZVKoV4RVboN2?usp=sharing)
 
 Click the button above to open the notebook directly in Google Colab.
 
