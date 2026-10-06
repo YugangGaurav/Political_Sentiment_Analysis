@@ -8,6 +8,11 @@ An NLP and Machine Learning project for analyzing sentiment in political and soc
 
 Click the button above to open the notebook directly in Google Colab.
 
+## 🚀 Open as Political Sentiment Analysis web
+[(https://colab.research.google.com/github/YugangGaurav/Political_Sentiment_Analysis/blob/main/Political_Sentiment_Analysis.ipynb)](https://politicalsentimentanalysis-cozitsyug.streamlit.app/)
+
+Click the button above to open the website.
+
 ## 📌 Project Overview
 
 Political discussions contain complex language, criticism, sarcasm, praise, and mixed opinions. This project applies Natural Language Processing and Machine Learning techniques to identify the overall sentiment expressed in political text.
